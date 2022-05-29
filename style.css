@@ -1,0 +1,41 @@
+ body {
+
+     background-color: rgb(250, 165, 250);
+     font-family: 'Macondo', cursive;
+ }
+
+ .header_div {
+     background-color: deeppink;
+     color: rgb(102, 13, 140);
+ }
+
+ .header_div p {
+     font-family: cursive;
+     color: black;
+     font-size: 12px;
+     letter-spacing: 2px;
+     font-weight: bold;
+ }
+
+ .main_div button {
+    font-family: 'Smokum', cursive;
+    font-size: 20px;
+     margin-top: 30px;
+     width: 130px;
+     font-weight: bolder;
+     letter-spacing: 5px;
+     color: rgb(0, 0, 0);
+ }
+
+ .footer_div {
+     position: fixed;
+     color: firebrick;
+     bottom: 0;
+     width: 100%;
+     font-size: 20px;
+     background-color: hotpink;
+     line-height: 3;
+     text-align: center;
+     text-shadow: 5px 5px 5px grey;
+
+ }
